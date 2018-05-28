@@ -1,0 +1,16 @@
+﻿.tag1{font-size: 1.0em; color: black; font-family: Impact; fill: rgb(57, 59, 121);}
+.tag2{font-size: 1.3em; color: aqua;font-family: Impact;fill: rgb(57, 59, 121);}
+.tag3{font-size: 1.6em; color: blue;font-family: Impact;fill: rgb(57, 59, 121);}
+.tag4{font-size: 1.9em; color: green;font-family: Impact;fill: rgb(82, 84, 163);}
+.tag5{font-size: 2.4em; color: gray;font-family: Impact;fill: rgb(156, 158, 222);}
+.tag6{font-size: 2.7em; color: darkred;font-family: Impact;fill: rgb(57, 59, 121);}
+.tag7{font-size: 3.0em; color: pink;font-family: Impact;fill: rgb(107, 110, 207);}
+.tag8{font-size: 3.3em; color: red;font-family: Impact;fill: rgb(57, 59, 121);}
+
+    .containerTags {
+        max-width:500px;
+        text-align:center;
+    }
+    .jumbotron {
+        background-color:transparent
+    }

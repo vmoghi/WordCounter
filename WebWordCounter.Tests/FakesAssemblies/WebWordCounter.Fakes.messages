@@ -1,0 +1,8 @@
+C:\jobs\WebWordCounter\WebWordCounter.Tests\Fakes\WebWordCounter.fakes : warning : Cannot generate stub for WebWordCounter.App_Start.UnityWebActivator: type is sealed.
+C:\jobs\WebWordCounter\WebWordCounter.Tests\Fakes\WebWordCounter.fakes : warning : Cannot generate stub for WebWordCounter.WebServices.ProcessWebService: type is sealed.
+C:\jobs\WebWordCounter\WebWordCounter.Tests\Fakes\WebWordCounter.fakes : warning : Cannot generate stub for WebWordCounter.WebApiConfig: type is sealed.
+C:\jobs\WebWordCounter\WebWordCounter.Tests\Fakes\WebWordCounter.fakes : warning : Cannot generate stub for <>f__AnonymousType0`3: type is sealed.
+C:\jobs\WebWordCounter\WebWordCounter.Tests\Fakes\WebWordCounter.fakes : warning : Cannot generate stub for <>f__AnonymousType1`1: type is sealed.
+C:\jobs\WebWordCounter\WebWordCounter.Tests\Fakes\WebWordCounter.fakes : warning : Cannot generate shim for WebWordCounter.Common.IBuildWordCloud: type is an interface.
+C:\jobs\WebWordCounter\WebWordCounter.Tests\Fakes\WebWordCounter.fakes : warning : Cannot generate shim for <>f__AnonymousType0`3: type is not supported because of internal limitations.
+C:\jobs\WebWordCounter\WebWordCounter.Tests\Fakes\WebWordCounter.fakes : warning : Cannot generate shim for <>f__AnonymousType1`1: type is not supported because of internal limitations.
