@@ -65,7 +65,8 @@ namespace WebWordCounter.Common
 
         private static string RemoveSpecialCharacters(string text)
         {
-            return Regex.Replace(text, "[^a-zA-Z]", "", RegexOptions.Compiled);
+            text=text.Replace("nbsp","");
+            return Regex.Replace(text, "[^a-zA-Z ]", "", RegexOptions.Compiled);
         }
 
         private static string GetTagClass(int result)
